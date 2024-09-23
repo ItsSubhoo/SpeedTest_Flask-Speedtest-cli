@@ -1,4 +1,4 @@
-# SpeedTest_Flask-Speedtest-cli
+#UPseepd [SpeedTest_Flask-Speedtest-cli]
 
 This is an Internet Speed Test application built with Flask for the backend and HTML, CSS, and JavaScript for the frontend. It allows users to measure their internet speed in terms of download and upload speeds, with real-time visual feedback using gauges.
 
